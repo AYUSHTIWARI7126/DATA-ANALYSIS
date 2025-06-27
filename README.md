@@ -18,11 +18,9 @@ This is a simple weather information app built using Python and the OpenWeatherM
 
 ## 📷 Screenshot
 
-Enter city name: Bengaluru
+Enter city name:  Bengaluru
 📍 City: Bengaluru
 🌡️ Temperature: 21.36°C
 🌥️ Weather: Broken Clouds
 💨 Wind Speed: 6.72 m/s
 🌡️ Humidity: 79%
-
---
